@@ -8,11 +8,20 @@ Como no título, me chamo Caio. Desenvolvedor web full stack, SysAdmin e Consult
 <a href="https://www.credly.com/badges/471743f4-2331-43e7-9607-61f24ebae25c" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png" width="75">
 </a>
+<a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000461345/9rhszwr2jj" target="_blank">
+  <img src="https://home.pearsonvue.com/getattachment/Clients/LPI/LPIC-1-(1).jpg" width="75">
+</a>
 <a href="https://www.credly.com/badges/eda25bbe-731f-437c-a547-d6f41ca0a882" target="_blank">
   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="75">
 </a>
 <a href="https://google.accredible.com/20971af7-7de8-4444-9ad5-ab786755f99d#gs.482fiu" target="_blank">
   <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="75">
+</a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=37FBFAE91F855F2B37D24F2B0F9092659FD5C80E09BD7F69D16CEB6DA3D632C8" target="_blank">
+  <img src="https://i.imgur.com/4GQrwgv.png" width="75">
+</a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9769D4A6447A1A3403B362AC23738FC12CDB0CECF4D2E46EBACB725B6CCDD004" target="_blank">
+  <img src="https://i.imgur.com/T0ZNwBI.png" width="75">
 </a>
 <a href="https://www.credly.com/badges/81a25884-1310-4271-9188-1431847cc1f9" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" width="75">
@@ -58,7 +67,7 @@ Como no título, me chamo Caio. Desenvolvedor web full stack, SysAdmin e Consult
 </a>
 
 ## 💻 Não-Cloud
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 ## 🌐 Redes sociais
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/caio-souza-do-carmo/)
