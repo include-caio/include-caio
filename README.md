@@ -68,6 +68,12 @@ Como no título, me chamo Caio. Desenvolvedor web full stack, SysAdmin, Consulto
 <a href="https://www.credly.com/badges/cb7f2014-c449-4b00-a654-14ad98781634" target="_blank">
   <img src="https://caio.work/storage/credentials/mta4.png" width="75">
 </a>
+<a href="https://credentials.databricks.com/0f9977b5-374f-4b8e-9b74-ecfa909be868#acc.SAxbP0pJ" target="_blank">
+  <img src="https://caio.work/storage/credentials/databricksfundamentals.png" width="75">
+</a>
+<a href="https://credentials.databricks.com/9ff78eb8-eb55-4c04-8649-7213e1ccdf82#acc.i6b1DyI9" target="_blank">
+  <img src="https://caio.work/storage/credentials/databrickslakehouse.png" width="75">
+</a>
 
 ## 💻 Não-Cloud
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=2361DAFB&style=for-the-badge) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
